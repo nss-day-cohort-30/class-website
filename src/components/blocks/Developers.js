@@ -10,7 +10,8 @@ class Developers extends Component {
     render() {
         return (
             <div id="developers" className="developers">
-                <h1 className="darkBgTitle">Developers</h1>
+                <h1 class="darkBgTitle">Nashville Software School Cohort 30</h1>
+                <h1 className="darkBgTitleGrey">Developers</h1>
 
                 {
                     //Checks device type and renders appropriate card (Modal on desktop, bio extension on mobile)

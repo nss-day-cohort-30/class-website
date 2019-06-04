@@ -37,6 +37,11 @@ ul {
   margin-top: 40px;
 }
 
+.darkBgTitleGrey {
+  text-align: center;
+  font-size: 1.6em;
+}
+
 .lightBgTitle {
   text-align: center;
   margin-top: 40px;
