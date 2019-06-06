@@ -34,6 +34,7 @@ ul {
 
 .darkBgTitle {
   text-align: center;
+  margin: auto;
   margin-top: 40px;
   max-width: 80%;
 }
