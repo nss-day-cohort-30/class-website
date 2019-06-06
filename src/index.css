@@ -35,6 +35,7 @@ ul {
 .darkBgTitle {
   text-align: center;
   margin-top: 40px;
+  max-width: 80%;
 }
 
 .darkBgTitleGrey {
