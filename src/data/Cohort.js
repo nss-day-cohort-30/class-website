@@ -3,12 +3,12 @@ const cohort = [
         "id": 1,
         "firstName": "Justina",
         "lastName": "Vickers",
-        "portfolio": "",
+        "portfolio": "http://www.justinavickers.com",
         "linkedin": "https://www.linkedin.com/in/justina-vickers/",
         "github": "https://github.com/justinavickers",
         "email": "justinav38@gmail.com",
-        "reelThemIn": '"The prediction I can make with the highest confidence is that the most amazing discoveries will be ones we are not today wise enough to foresee." - Carl Sagan',
-        "bio": "I took a different path in life, and started my own cleaning business with my twin sister after high school. We ran the business together for three years and decided to take the skills we had learned and move on to other opportunities. I took a position at Jimmy Johns and, in one year, worked my way up from cashier to GM. Although the company encouraged further growth, I found myself facing a choice; take on more responsibility (requiring me to move out of state) or stay in Nashville in my current position. Moving wasn't the right option for me at the time,  so I found myself looking for a new career. I wanted a career with room to grow, where the possibilities would be endless. My family mentioned software development for me. I started doing some research and worked on tutorials from CodeCademy and Udemy. Everything I learned about software made it the obvious choice. I joined the Jumpstart program at NSS, and fell in love. Shortly after finishing the Jumpstart program I applied for the 6 month course and was accepted. I am lucky to have the opportunity to continually learn and grow with this career. The challenges motivate me to expand my knowledge, feed my creativity, and become a better developer. "
+        "reelThemIn": '"War... war never changes."',
+        "bio": "As a natural problem solver I wanted to transition myself into a career with room to grow and where the possibilities would be endless. My family mentioned software development for me. I started doing some research and worked on tutorials from CodeCademy and Udemy. Everything I learned about software made it the obvious choice. I joined the Jumpstart program at NSS, and fell in love. Shortly after finishing the Jumpstart program I applied for the 6 month course and was accepted. I am lucky to have the opportunity to continually learn and grow with this career. The challenges motivate me to expand my knowledge, feed my creativity, and become a better developer."
     },
     {
         "id": 2,
@@ -168,7 +168,7 @@ const cohort = [
         "id": 17,
         "firstName": "Janet",
         "lastName": "Woods",
-        "portfolio": "http://janetnwoods.com/",
+        "portfolio": "http://www.janetnwoods.com/",
         "linkedin": "https://www.linkedin.com/in/janetnwoods/",
         "github": "https://github.com/JanetWoods",
         "email": "janetnwoods@gmail.com",
