@@ -208,19 +208,19 @@ const cohort = [
         "reelThemIn": '"Act your age, not your shoe size" - my dad',
         "bio": "Jack of All Trades turned Manager turned Software Developer. After a long journey through various jobs trying to find one that captures my attention and interest, I finally found software development!  My analytical mindset immediately took to the problem solving and logic of software development. The more I learn about it, the more I want to keep learning. It's never ending and that's just one of the things I love about it.  I have finally found something that is fun, challenging, and fulfilling all at once, and am excited to see what the future brings."
     },
+    // {
+    //     "id": 21,
+    //     "firstName": "Charles",
+    //     "lastName": "Woodring",
+    //     "portfolio": "",
+    //     "linkedin": "https://www.linkedin.com/in/charles-woodring-183895a/",
+    //     "github": "https://github.com/charleswoodring",
+    //     "email": "charles.s.woodring@gmail.com",
+    //     "reelThemIn": '"Changes aren’t permanent, but change is." - Neil Peart',
+    //     "bio": "After serving in the US Navy, I worked at a print shop and progressed from Print Operations to Data Processing to Programming. There I developed a love for working with computer hardware and software.  NSS is affording me the opportunity to learn and grow in an ever evolving tech industry."
+    // },
     {
         "id": 21,
-        "firstName": "Charles",
-        "lastName": "Woodring",
-        "portfolio": "",
-        "linkedin": "https://www.linkedin.com/in/charles-woodring-183895a/",
-        "github": "https://github.com/charleswoodring",
-        "email": "charles.s.woodring@gmail.com",
-        "reelThemIn": '"Changes aren’t permanent, but change is." - Neil Peart',
-        "bio": "After serving in the US Navy, I worked at a print shop and progressed from Print Operations to Data Processing to Programming. There I developed a love for working with computer hardware and software.  NSS is affording me the opportunity to learn and grow in an ever evolving tech industry."
-    },
-    {
-        "id": 22,
         "firstName": "Samuel",
         "lastName": "Cronin",
         "portfolio": "https://samuelcronin.dev/",
@@ -231,7 +231,7 @@ const cohort = [
         "bio": "I am a web developer with an ardent mind for tackling the conceptual and analytical side of projects. I strive to create clear and effective code while learning new tricks to keep my edge sharp. I found development through a twisted path from graphic design to hospitality and back in through video games and personal exploration. My experience so far has given me distinct skills in clear communication and time-management. Nashville Software School taught me the soft skills I needed to pursue the hard ones that I had been leaning in to for a number of years. At NSS, I learned how to work in a team environment and communicate my needs and receive positive feedback for growth. I enjoy the system-focused side of development and found that reinforced through my capstone projects."
     },
     {
-        "id": 23,
+        "id": 22,
         "firstName": "Ryan",
         "lastName": "Nelson",
         "portfolio": "",
@@ -242,7 +242,7 @@ const cohort = [
         "bio": "Born and raised in Tennessee, I started working right out of high school, your typical 9-5 jobs. I felt like I didn’t have enough fulfillment. I began to remember my love of computers and programming that I had in back high school. Programming gave me the constant learning, and the continuous growth that I had been yearning for. I started using Dark Basic which leads me to find Unity Engine. My passion for development continued to grow with each technology I learned about. I began to ask around to find a good starting point, and I was told about NSS. I am excited to see where this journey takes me as a software developer."
     },
     {
-        "id": 24,
+        "id": 23,
         "firstName": "Stephen",
         "lastName": "Clark",
         "portfolio": "",
@@ -253,7 +253,7 @@ const cohort = [
         "bio": "An apprentice software developer at Nashville Software School with experience in teaching, editing and church leadership, I am a graduate of the University of Cambridge who learns quickly and loves to explore new concepts and ideas. I am a keen amateur musician and have composed a musical, directed a choir, led church worship and played in a jazz trio. I was attracted to software development because I like solving puzzles of all kinds, and my logical mind enjoys the systematic nature of coding and debugging. There's nothing more satisfying than squashing a difficult bug."
     },
     {
-        "id": 25,
+        "id": 24,
         "firstName": "Emmett",
         "lastName": "Schneider",
         "portfolio": "",
